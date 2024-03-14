@@ -9,5 +9,5 @@ coordinate 0 and the open end at 52.
 
 This program loads cargo into the trailer. The cargo shapes and names are given below. Your
 program will accept a cargo shape and x-axis location in a series of records in the form: “3O,9I,0J”.
-Cargo is loaded straight in from the open end (top) to the empty end (boƩom). The cargo cannot be
+Cargo is loaded straight in from the open end (top) to the empty end (bottom). The cargo cannot be
 rotated, and it does not move on the x-axis.
